@@ -1,0 +1,55 @@
+.nav{
+    background-color: rgb(226, 223, 223);
+    height: 100px;
+}
+
+.btnCategory{
+    margin: 5px;
+}
+
+.btnControl{
+    border-radius: 50px;
+}
+
+.cardProd{
+    border: none;
+    margin: 20px;
+    box-shadow: 10px 6px 6px rgb(211, 211, 211,0.221);
+}
+
+.cardDetail{
+    width: 500px;
+    border: none;
+    margin: 20px;
+    box-shadow: 10px 6px 6px rgb(211, 211, 211,0.221);
+}
+
+.imgCard{
+    width: 150px;
+    height: 150px;
+}
+
+.btnDetail{
+    margin-bottom: 10px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.title{
+    color: black;
+    margin-left: 30px;
+}
+
+.bgColor{
+    background-color: rgb(215, 60, 60);
+    color:white;
+    border: none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.btnCart{
+    margin: 10px;
+}
